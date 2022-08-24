@@ -3,7 +3,7 @@ name: Scheduled
 on:
   schedule:
     # 毎時40分に実行
-    - cron: '40 * * * *'
+    - cron: '*/5 * * * *' #5分に1回実行
 
 jobs:
   build:
