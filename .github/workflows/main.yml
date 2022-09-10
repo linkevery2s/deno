@@ -2,7 +2,7 @@ name: Scheduled
 
 on:
   schedule:
-    - cron: '50 * * * *' #60分に1回実行
+    - cron: '50 * * * *' #50分に1回実行
 
 jobs:
   build:
