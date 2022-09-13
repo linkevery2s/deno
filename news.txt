@@ -4,7 +4,14 @@
         <title><![CDATA[外務省海外安全ホームページ新着海外安全情報]]></title>
         <link>https://www.anzen.mofa.go.jp/index.html</link>
         <description><![CDATA[このホームページに掲載する海外安全情報は、海外に渡航・滞在される方々が自分自身で安全を確保していただくための参考情報です。法的な強制力をもって、皆様の渡航を帰ししたり、退避を命令したりするものではありません。同様に旅行会社の主催する旅行を中止させる効力もありません。渡航前、滞在中は、常に「自分の身は自分で守る」との心構えをもって、安全対策に努めてください。]]></description>
-        <lastBuildDate>Tue, 13 Sep 2022 14:56:14 +0900</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:39:23 +0900</lastBuildDate>
+        <item>
+            <title><![CDATA[新型コロナウイルス感染症に関する新たな水際対策措置（自宅等待機者の検査方法の見直し）]]></title>
+            <link><![CDATA[https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2022C079.html]]></link>
+            <description><![CDATA[新型コロナウイルス感染症に関する新たな水際対策措置（自宅等待機者の検査方法の見直し）]]></description>
+            <category><![CDATA[広域情報]]></category>
+            <pubDate>Tue, 13 Sep 2022 18:39:23 +0900</pubDate>
+        </item>
         <item>
             <title><![CDATA[ネパールの危険情報【危険レベル継続】（内容の更新）]]></title>
             <link><![CDATA[https://www.anzen.mofa.go.jp/info/pchazardspecificinfo_2022T075.html]]></link>
